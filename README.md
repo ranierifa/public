@@ -1,4 +1,4 @@
-# public
+# CODAI
 
 Este é um repositorio de explodo do projeto CODAI (https://codai.growdev.com.br/)
 
