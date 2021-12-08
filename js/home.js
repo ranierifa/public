@@ -24,7 +24,7 @@ document.getElementById("transaction-form").addEventListener("submit", function(
        value: value, type: type, description: description, date: date
     });
 
-    saveData (data);
+   // saveData (data);
     e.target.reset();
     myModal.hide();
 
